@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "WT0132P4-A1")(type "KiCad")(uri "C:/Users/grabt/Desktop/Custom KiCAD Assets/WT0132P4-A1/WT0132P4-A1.pretty")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "C:/Users/grabt/Desktop/Custom KiCAD Assets/AMC7135/footprint.pretty")(options "")(descr ""))
+  (lib (name "Custom KiCAD Assets")(type "KiCad")(uri "C:/Users/grabt/Desktop/Custom KiCAD Assets.pretty")(options "")(descr ""))
+)

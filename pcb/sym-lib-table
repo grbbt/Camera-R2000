@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WT0132P4-A1")(type "KiCad")(uri "C:/Users/grabt/Desktop/Custom KiCAD Assets/WT0132P4-A1/WT0132P4-A1.kicad_sym")(options "")(descr ""))
+  (lib (name "JH-1RGB14G30-S2A")(type "KiCad")(uri "C:/Users/grabt/Desktop/Custom KiCAD Assets/JH-1RGB14G30-S2A.kicad_sym")(options "")(descr ""))
+)
