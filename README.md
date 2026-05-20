@@ -190,14 +190,14 @@ If you want clinical accuracy, this is the wrong camera. If you want something t
 | PCB layout | ✅ First pass complete |
 | Power system | ✅ LDO selection finalised |
 | PCB Assembly & Testing | 🔧 In progress |
-| Display / LVGL | 🔧 In progress |
 
 | Software | Status |
 |-----------|--------|
+| Display / LVGL | 🔧 In progress |
+| WiFi upload (C6) | 🔧 In progress |
 | RGB flash driver | ⬜ Not started |
 | Film filters | ⬜ Not started |
 | SD storage | ⬜ Not started |
-| WiFi upload (C6) | 🔧 In progress |
 
 | Hardware | Status |
 |-----------|--------|
