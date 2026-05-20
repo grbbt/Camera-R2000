@@ -10,7 +10,7 @@
 
 ## Overview
 
-The R2000 is a hand-held digital camera on an 80mm circular PCB. Fixed-focus wide-angle lens, film-style filters, RGB flash, and a round touchscreen — all driven by an ESP32-P4 + ESP32-C6 SOM. It's a camera that prioritises feel and fun over clinical image quality.
+The R2000 is a hand-held digital camera on an 70mm circular PCB. Fixed-focus wide-angle lens, film-style filters, RGB flash, and a round touchscreen — all driven by an ESP32-P4 + ESP32-C6 SOM. It's a camera that prioritises feel and fun over clinical image quality.
 
 ---
 
@@ -27,7 +27,7 @@ The R2000 is a hand-held digital camera on an 80mm circular PCB. Fixed-focus wid
 
 ---
 
-## Hardware
+## Electrical Hardware
 
 ### Core SOM
 
@@ -45,8 +45,7 @@ The R2000 is a hand-held digital camera on an 80mm circular PCB. Fixed-focus wid
 
 | Parameter | Value |
 |-----------|-------|
-| Shape | Circular |
-| Diameter | 80mm |
+| Diameter | 70mm |
 | Layers | 4 |
 | Design tool | KiCad |
 
@@ -186,16 +185,24 @@ If you want clinical accuracy, this is the wrong camera. If you want something t
 
 ## Status
 
-| Subsystem | Status |
+| Electrical | Status |
 |-----------|--------|
 | PCB layout | ✅ First pass complete |
 | Power system | ✅ LDO selection finalised |
-| Camera capture | 🔧 In progress |
+| PCB Assembly & Testing | 🔧 In progress |
 | Display / LVGL | 🔧 In progress |
+
+| Software | Status |
+|-----------|--------|
 | RGB flash driver | ⬜ Not started |
 | Film filters | ⬜ Not started |
 | SD storage | ⬜ Not started |
-| WiFi upload (C6) | ⬜ Not started |
+| WiFi upload (C6) | 🔧 In progress |
+
+| Hardware | Status |
+|-----------|--------|
+| Case Initial Design | 🔧 In progress |
+| Case Prototyping | 🔧 In progress |
 
 ---
 
